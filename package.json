@@ -1,0 +1,16 @@
+{
+  "name": "wxapp-unpacker",
+  "version": "0.0.1",
+  "description": "Wechat App(微信小程序, .wxapkg)解包及相关文件(.wxss, .json, .wxs, .wxml)还原工具",
+  "main": "wuWxapkg.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "css-tree": "^1.0.0-alpha.39",
+    "cssbeautify": "^0.3.1",
+    "escodegen": "^1.14.1",
+    "esprima": "^4.0.1",
+    "js-beautify": "^1.10.3",
+    "uglify-es": "^3.3.9",
+    "vm2": "^3.8.4"
+  }
+}
